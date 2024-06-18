@@ -15,7 +15,7 @@ API для получения курсов валют
 
 bash
 Копировать код
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/AlexanderLisyak/converter-currency.git
 Перейдите в директорию проекта:
 
 bash
